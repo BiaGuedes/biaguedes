@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 Currently working as PMO in Project Analysis area (management of schedules, resources, costs, risks and processes related to CMMI);
+
 Learning how to apply Design Thinking on a daily basis to organize ideas as well as an innovative way to solve problems;
-Looking for help with Data Science, Python, SQL, Cloud
+
+Looking for help with Data Science, Python, SQL, Cloud;
+
 How to reach me: https://www.linkedin.com/in/beatriz-guedes-silva/
 
 
