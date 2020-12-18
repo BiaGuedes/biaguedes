@@ -4,6 +4,10 @@ Currently working as PMO in Project Analysis area (management of schedules, reso
 
 Learning how to apply Design Thinking on a daily basis to organize ideas as well as an innovative way to solve problems;
 
+Knowledge in tools that assist in the management of agile projects such as Trello, Jira, Jamboard and Microsoft Planner;
+
+Interest in subjects related to Digital Transformation and Business 4.0.
+
 Looking for help with Data Science, Python, SQL, Cloud;
 
 How to reach me: https://www.linkedin.com/in/beatriz-guedes-silva/
